@@ -56,7 +56,7 @@
 	   The commands are as follows -
 	   1) cl /EHsc mv_pattern_client.c mv_pattern_01.c mv_pattern_02.c mv_pattern_03.c (.... upto mv_pattern_50.c) 
 
-	   2) pattern_client.exe
+	   2) mv_pattern_client.exe
 
 
 #) Conclusion :- 
@@ -64,4 +64,4 @@
 	This project we successfully implement concepts such as Branching, Looping, Functions, Array, Pointer, etc.
 	This projects gives primitive idea about multifile code handling as well as successful implementation of Client Server Architecture.
 
-	
+
