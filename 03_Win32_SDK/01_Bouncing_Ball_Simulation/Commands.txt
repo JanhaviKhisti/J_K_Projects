@@ -1,0 +1,7 @@
+Commands to run ball code :- 
+
+1) cd [path]
+2) cl.exe /c /EHsc Ball.cpp
+3) rc.exe Window.rc
+4) link.exe Ball.obj Window.res user32.lib gdi32.lib /SUBSYSTEM:WINDOWS
+5) Ball.exe
