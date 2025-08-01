@@ -16,22 +16,6 @@ This project monitors and predicts air quality near transport corridors using po
 
 ---
 
-## Folder Structure
-
-Air_Quality_Monitoring/Final_Project/
-├── Data/
-│ └── delhi_aqi.csv # Raw dataset
-│ └── cleaned_data.csv # Preprocessed data with AQI (auto-generated)
-├── Code/
-│ ├── data_processing.py # Cleans data and computes AQI
-│ ├── training_model.py # Trains ML model
-│ ├── data_visualization.py # Plots pollutant trends and correlation
-│ └── app.py # Streamlit web dashboard
-├── requirements.txt
-└── README.md
-
----
-
 ## Setup Instructions
 
 1. Clone the repository or download the folder.
